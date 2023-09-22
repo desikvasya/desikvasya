@@ -20,4 +20,4 @@ ProgressHUD, Kingfisher \
 Другие проекты: https://github.com/desikvasya?tab=repositories
 
 # 💬 Связаться со мной
-[Mail](korostelevdenis@mail.ru) | [Telegram](https://t.me/desikvasya)
+Почта: korostelevdenis@mail.ru | [Telegram](https://t.me/desikvasya)
