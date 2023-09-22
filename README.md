@@ -18,3 +18,6 @@ ProgressHUD, Kingfisher \
 Лента изображений Unsplash, **ImageFeed**: https://github.com/desikvasya/ImageFeed \
 Квиз по топ 250 фильмам IMDb, **MovieQuiz**: https://github.com/desikvasya/MovieQuiz \
 Другие проекты: https://github.com/desikvasya?tab=repositories
+
+# 💬 Связаться со мной
+[Mail](korostelevdenis@mail.ru) | [Telegram](https://t.me/desikvasya)
